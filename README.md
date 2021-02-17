@@ -1,5 +1,3 @@
-![Image](https://mcusercontent.com/a8ee1f0181794cf124eafc38f/images/5584fdd9-1660-4b4e-8f75-b0197c0855f9.jpg)
-
 <p align="center">
 <a href="https://www.facebook.com/raman.raj.52012"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
 
