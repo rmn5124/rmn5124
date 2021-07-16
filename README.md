@@ -11,7 +11,7 @@
 
 </br>
 <code> I am a Web development Enthusiast.
-I have solved 500+ DSA problems on different coding platforms like ##Leetcode , ##GeeksForGeeks, ##Codeforces . </code>
+I have solved 500+ DSA problems on different coding platforms like 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 , 𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 ,𝐂𝐨𝐝𝐞𝐟𝐨𝐫𝐜𝐞𝐬. </code>
 
 </br>
 </br>
@@ -34,7 +34,7 @@ I have solved 500+ DSA problems on different coding platforms like ##Leetcode , 
 
 #### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsingh20&theme=chartreuse-dark&layout=compact)
+!              [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsingh20&theme=chartreuse-dark&layout=compact)
 
 ## Statistics 
 ![Raman's github stats](https://github-readme-stats.vercel.app/api?username=rmn5124&theme=blue-green) ![Raman's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rmn5124&theme=blue-green)
