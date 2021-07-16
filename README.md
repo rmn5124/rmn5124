@@ -5,8 +5,8 @@
 
 <a href='https://www.https://www.linkedin.com/in/rmn-52012/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Raman&color=blue&style=flat-square&logo=linkedin' />
-  <a href="mailto:rmn5124@gmail.com"><img src="https://img.shields.io/badge/-abhishekchauhan1509@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/rmnchoudhary_/"><img src="https://img.shields.io/badge/-_abhishek_chauhan_09-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:rmn5124@gmail.com"><img src="https://img.shields.io/badge/-rmn5124@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/rmnchoudhary_/"><img src="https://img.shields.io/badge/-rmnchoudhary_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   </a>
 
 </br>
