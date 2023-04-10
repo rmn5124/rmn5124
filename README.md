@@ -10,7 +10,6 @@
 
 </br>
 <code> I am a 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 Enthusiast.
-I have solved 𝟓𝟎𝟎+ 𝐃𝐒𝐀 problems on different coding platforms like 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 𝐂𝐨𝐝𝐞𝐟𝐨𝐫𝐜𝐞𝐬</code>
 
 </br>
 </br>
